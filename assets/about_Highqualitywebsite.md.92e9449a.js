@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./app.90075753.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about/Highqualitywebsite.md"}'),o={name:"about/Highqualitywebsite.md"};function s(i,r,c,n,p,_){return e(),a("div")}const u=t(o,[["render",s]]);export{l as __pageData,u as default};
